@@ -1,0 +1,55 @@
+{
+  "id": "module-1-ros2/chapter-3-services-actions-parameters",
+  "title": "Chapter 3: Services, Actions, and Parameters",
+  "description": "Master request-response services, long-running actions, and runtime parameters to build sophisticated robotic behaviors",
+  "source": "@site/docs/module-1-ros2/chapter-3-services-actions-parameters.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-3-services-actions-parameters",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-3-services-actions-parameters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-1-ros2/chapter-3-services-actions-parameters.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Chapter 3: Services, Actions, and Parameters",
+    "description": "Master request-response services, long-running actions, and runtime parameters to build sophisticated robotic behaviors",
+    "keywords": [
+      "rclpy",
+      "services",
+      "actions",
+      "parameters",
+      "request-response",
+      "async",
+      "callbacks",
+      "AI integration"
+    ],
+    "sidebar_position": 3,
+    "learning_objectives": [
+      "Implement service servers and clients for request-response communication",
+      "Create action servers and clients for long-running tasks with feedback",
+      "Apply parameters for runtime configuration of nodes",
+      "Design AI-ROS integration patterns separating decision logic from communication"
+    ],
+    "prerequisites": [
+      "Chapter 2: ROS 2 Nodes and Topics",
+      "Python async/await basics",
+      "Object-oriented programming"
+    ],
+    "estimated_time": 120,
+    "content_type": "tutorial",
+    "difficulty": "intermediate",
+    "ros2_distribution": "humble",
+    "chapter_number": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: ROS 2 Nodes and Topics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-2-nodes-topics"
+  },
+  "next": {
+    "title": "Chapter 4: URDF Robot Modeling",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-4-urdf-robot-modeling"
+  }
+}

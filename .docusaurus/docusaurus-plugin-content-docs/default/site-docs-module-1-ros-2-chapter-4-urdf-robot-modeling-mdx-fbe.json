@@ -1,0 +1,55 @@
+{
+  "id": "module-1-ros2/chapter-4-urdf-robot-modeling",
+  "title": "Chapter 4: URDF Robot Modeling",
+  "description": "Learn to define robot structure using URDF with links, joints, visual geometry, and kinematic chains for simulation and control",
+  "source": "@site/docs/module-1-ros2/chapter-4-urdf-robot-modeling.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-4-urdf-robot-modeling",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-4-urdf-robot-modeling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-1-ros2/chapter-4-urdf-robot-modeling.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Chapter 4: URDF Robot Modeling",
+    "description": "Learn to define robot structure using URDF with links, joints, visual geometry, and kinematic chains for simulation and control",
+    "keywords": [
+      "URDF",
+      "robot modeling",
+      "links",
+      "joints",
+      "RViz2",
+      "xacro",
+      "kinematic chains",
+      "humanoid robots"
+    ],
+    "sidebar_position": 4,
+    "learning_objectives": [
+      "Create URDF files defining robot links, joints, and kinematic chains",
+      "Apply visual and collision geometry for robot visualization and physics",
+      "Design humanoid robot models with proper joint hierarchies and naming conventions",
+      "Evaluate URDF models using check_urdf and visualize in RViz2"
+    ],
+    "prerequisites": [
+      "Chapter 3: Services, Actions, and Parameters",
+      "Basic XML syntax",
+      "3D coordinate systems"
+    ],
+    "estimated_time": 100,
+    "content_type": "tutorial",
+    "difficulty": "intermediate",
+    "ros2_distribution": "humble",
+    "chapter_number": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: Services, Actions, and Parameters",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-3-services-actions-parameters"
+  },
+  "next": {
+    "title": "Chapter 5: Launch Files and Package Management",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-5-launch-files-packages"
+  }
+}

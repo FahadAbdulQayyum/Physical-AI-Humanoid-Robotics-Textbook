@@ -1,0 +1,47 @@
+{
+  "id": "setup/workstation",
+  "title": "Setup Guide: Digital Twin Workstation",
+  "description": "Configure a local workstation with NVIDIA RTX GPU for running ROS 2, Gazebo, Unity, and Isaac Sim",
+  "source": "@site/docs/setup/workstation.mdx",
+  "sourceDirName": "setup",
+  "slug": "/setup/workstation",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/workstation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/setup/workstation.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Setup Guide: Digital Twin Workstation",
+    "description": "Configure a local workstation with NVIDIA RTX GPU for running ROS 2, Gazebo, Unity, and Isaac Sim",
+    "keywords": [
+      "workstation setup",
+      "RTX GPU",
+      "Ubuntu 22.04",
+      "ROS 2",
+      "Isaac Sim",
+      "development environment"
+    ],
+    "sidebar_position": 1,
+    "estimated_time": 120,
+    "week": 1,
+    "module": 0,
+    "prerequisites": [],
+    "learning_objectives": [
+      "Install Ubuntu 22.04 (native or dual-boot) on a workstation with RTX GPU",
+      "Configure NVIDIA drivers and CUDA toolkit for GPU acceleration",
+      "Install ROS 2 Humble and verify installation with demo nodes",
+      "Set up Isaac Sim, Gazebo, and Unity for simulation workflows"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro"
+  },
+  "next": {
+    "title": "Setup Guide: Physical AI Edge Kit",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/edge-kit"
+  }
+}

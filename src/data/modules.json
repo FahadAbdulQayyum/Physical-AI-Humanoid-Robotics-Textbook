@@ -1,0 +1,82 @@
+[
+  {
+    "id": "module-1-ros2",
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "titleUrdu": "ماڈیول 1: روبوٹک نرووس سسٹم (ROS 2)",
+    "weekRange": "Weeks 3-5",
+    "description": "Master ROS 2 architecture, communication patterns, and robot modeling. Learn to build distributed robotic systems using nodes, topics, services, and actions.",
+    "descriptionUrdu": "ROS 2 کی تعمیر و ترتیب، مواصلات کے نمونے اور روبوٹ کی ماڈلنگ میں مہارت حاصل کریں۔ نوڈس، ٹاپکس، سروسز اور ایکشنز استعمال کرتے ہوئے تقسیم شدہ روبوٹک سسٹم بنانا سیکھیں۔",
+    "learningOutcomes": [
+      "Explain the ROS 2 computation graph and its components",
+      "Create publishers, subscribers, and service clients using rclpy",
+      "Define robot structure using URDF and visualize in RViz2",
+      "Launch multi-node systems and debug distributed applications"
+    ],
+    "learningOutcomesUrdu": [
+      "ROS 2 کمپیوٹیشن گراف اور اس کے اجزاء کی وضاحت کریں",
+      "rclpy استعمال کرتے ہوئے ناشرین، رکنین اور سروس کلائنٹس بنائیں",
+      "URDF استعمال کرتے ہوئے روبوٹ کی ساخت کی تعریف اور RViz2 میں تصور کریں",
+      "متعدد نوڈ سسٹمز شروع کریں اور تقسیم شدہ ایپلیکیشنز میں خرابیوں کو دور کریں"
+    ]
+  },
+  {
+    "id": "module-2-digital-twin",
+    "title": "Module 2: Digital Twins - Simulation & Sensors",
+    "titleUrdu": "ماڈیول 2: ڈیجیٹل ڈپلیکیٹ - نقالی اور سینسرز",
+    "weekRange": "Weeks 6-7",
+    "description": "Build digital twins for robotic systems using Gazebo and Unity. Simulate sensors, physics, and environments for testing before deploying to physical hardware.",
+    "descriptionUrdu": "Gazebo اور Unity استعمال کرتے ہوئے روبوٹک سسٹمز کے لیے ڈیجیٹل ڈپلیکیٹ بنائیں۔ جسمانی ہارڈویئر میں تعینات کرنے سے پہلے سینسرز، فزکس اور ماحول کی نقالی کریں۔",
+    "learningOutcomes": [
+      "Create Gazebo simulation environments with physics and sensors",
+      "Integrate Unity for photorealistic sensor simulation",
+      "Test navigation and perception algorithms in simulation",
+      "Bridge simulated and real robot workflows"
+    ],
+    "learningOutcomesUrdu": [
+      "Gazebo میں فزکس اور سینسرز کے ساتھ نقالی ماحول بنائیں",
+      "حقیقت پسندانہ سینسر نقالی کے لیے Unity کو شامل کریں",
+      "نقالی میں نیویگیشن اور ادراک کے الگورتھم کی جانچ کریں",
+      "نقالی اور اصل روبوٹ کے بہاؤ کے درمیان پل بنائیں"
+    ]
+  },
+  {
+    "id": "module-3-isaac",
+    "title": "Module 3: NVIDIA Isaac - Perception & Navigation",
+    "titleUrdu": "ماڈیول 3: NVIDIA Isaac - ادراک اور نیویگیشن",
+    "weekRange": "Weeks 8-10",
+    "description": "Leverage NVIDIA Isaac Sim for GPU-accelerated robotics. Implement VSLAM, Nav2 navigation stacks, and reinforcement learning for autonomous behaviors.",
+    "descriptionUrdu": "GPU سے تیز رفتار روبوٹکس کے لیے NVIDIA Isaac Sim کا استعمال کریں۔ VSLAM، Nav2 نیویگیشن سٹیکس اور خود مختاری کے رویے کے لیے تقویتی سیکھنے کو نافذ کریں۔",
+    "learningOutcomes": [
+      "Set up and configure NVIDIA Isaac Sim environments",
+      "Implement Visual SLAM for robot localization",
+      "Deploy Nav2 navigation stack for autonomous navigation",
+      "Train reinforcement learning policies in Isaac Gym"
+    ],
+    "learningOutcomesUrdu": [
+      "NVIDIA Isaac Sim ماحول کو سیٹ اپ اور کنفیگر کریں",
+      "روبوٹ کی تعیین مقام کے لیے Visual SLAM کو نافذ کریں",
+      "خود مختاری سے نیویگیشن کے لیے Nav2 نیویگیشن سٹیک کو تعینات کریں",
+      "Isaac Gym میں تقویتی سیکھنے کی حکمت عملی کو تربیت دیں"
+    ]
+  },
+  {
+    "id": "module-4-vla-humanoids",
+    "title": "Module 4: VLA & Humanoid Robotics",
+    "titleUrdu": "ماڈیول 4: VLA اور انسان نما روبوٹکس",
+    "weekRange": "Weeks 11-13",
+    "description": "Integrate Vision-Language-Action models with humanoid robots. Master humanoid kinematics, manipulation, and conversational AI for natural human-robot interaction.",
+    "descriptionUrdu": "Vision-Language-Action ماڈلز کو انسان نما روبوٹس کے ساتھ ملائیں۔ انسان نما کنیمیٹکس، ہیرا پھیری اور قدرتی انسان و روبوٹ کے تعامل کے لیے کنورسیشنل AI میں مہارت حاصل کریں۔",
+    "learningOutcomes": [
+      "Calculate forward and inverse kinematics for humanoid robots",
+      "Implement manipulation primitives for pick-and-place tasks",
+      "Integrate conversational AI with robot action planning",
+      "Deploy end-to-end VLA systems for voice-driven robotics"
+    ],
+    "learningOutcomesUrdu": [
+      "انسان نما روبوٹس کے لیے آگے کی طرف اور الٹی کنیمیٹکس کا حساب لگائیں",
+      "اٹھانے اور رکھنے کے کاموں کے لیے ہیرا پھیری کی بنیاد نافذ کریں",
+      "روبوٹ کی کارروائی کی منصوبہ بندی کے ساتھ کنورسیشنل AI کو ملائیں",
+      "آواز سے چلنے والی روبوٹکس کے لیے مکمل VLA سسٹمز کو تعینات کریں"
+    ]
+  }
+]

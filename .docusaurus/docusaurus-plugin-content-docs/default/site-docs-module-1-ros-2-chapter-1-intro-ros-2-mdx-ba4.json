@@ -1,0 +1,54 @@
+{
+  "id": "module-1-ros2/chapter-1-intro-ros2",
+  "title": "Chapter 1: Introduction to ROS 2",
+  "description": "Understand the distributed architecture of ROS 2, explore nodes, topics, services, and the computational graph model for robotic systems",
+  "source": "@site/docs/module-1-ros2/chapter-1-intro-ros2.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-1-intro-ros2",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-1-intro-ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-1-ros2/chapter-1-intro-ros2.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Chapter 1: Introduction to ROS 2",
+    "description": "Understand the distributed architecture of ROS 2, explore nodes, topics, services, and the computational graph model for robotic systems",
+    "keywords": [
+      "ROS 2",
+      "robotics middleware",
+      "DDS",
+      "distributed systems",
+      "nodes",
+      "topics",
+      "computational graph"
+    ],
+    "sidebar_position": 1,
+    "learning_objectives": [
+      "Understand the distributed architecture of ROS 2 and how it differs from ROS 1",
+      "Apply node concepts to design modular robotic systems",
+      "Demonstrate knowledge of topics, services, and actions communication patterns",
+      "Evaluate which ROS 2 distribution to use for specific platforms"
+    ],
+    "prerequisites": [
+      "Basic Linux command line",
+      "Python fundamentals",
+      "Basic understanding of processes"
+    ],
+    "estimated_time": 75,
+    "content_type": "tutorial",
+    "difficulty": "beginner",
+    "ros2_distribution": "Humble",
+    "chapter_number": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: ROS 2",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/"
+  },
+  "next": {
+    "title": "Chapter 2: ROS 2 Nodes and Topics",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-2-nodes-topics"
+  }
+}

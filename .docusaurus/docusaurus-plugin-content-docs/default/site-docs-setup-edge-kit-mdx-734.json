@@ -1,0 +1,46 @@
+{
+  "id": "setup/edge-kit",
+  "title": "Setup Guide: Physical AI Edge Kit",
+  "description": "Configure NVIDIA Jetson Orin Nano for edge robotics with ROS 2 and real-time control",
+  "source": "@site/docs/setup/edge-kit.mdx",
+  "sourceDirName": "setup",
+  "slug": "/setup/edge-kit",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/edge-kit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/setup/edge-kit.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Setup Guide: Physical AI Edge Kit",
+    "description": "Configure NVIDIA Jetson Orin Nano for edge robotics with ROS 2 and real-time control",
+    "keywords": [
+      "Jetson Orin Nano",
+      "edge computing",
+      "embedded robotics",
+      "ROS 2",
+      "physical robot setup"
+    ],
+    "sidebar_position": 2,
+    "estimated_time": 180,
+    "week": 1,
+    "module": 0,
+    "prerequisites": [],
+    "learning_objectives": [
+      "Flash JetPack 6.0 onto Jetson Orin Nano Developer Kit",
+      "Install ROS 2 Humble on ARM64 architecture",
+      "Configure GPIO and I2C for sensor/actuator communication",
+      "Deploy lightweight robot control on embedded hardware"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Guide: Digital Twin Workstation",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/workstation"
+  },
+  "next": {
+    "title": "Setup Guide: Cloud-Native Development",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/cloud"
+  }
+}

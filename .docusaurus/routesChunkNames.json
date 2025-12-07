@@ -1,0 +1,84 @@
+{
+  "/Physical-AI-Humanoid-Robotics-Textbook/search-08c": {
+    "__comp": "1a4e3797",
+    "__context": {
+      "plugin": "c141421f"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-e94": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-92f": {
+    "__comp": "a7bd4aaa",
+    "__props": "8323a835"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs-49f": {
+    "__comp": "a94703ab"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro-1a1": {
+    "__comp": "17896441",
+    "content": "f8409a7e"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/-268": {
+    "__comp": "17896441",
+    "content": "ed386d97"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-1-intro-ros2-79b": {
+    "__comp": "17896441",
+    "content": "ba4c4dbf"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-2-nodes-topics-8f3": {
+    "__comp": "17896441",
+    "content": "b739335f"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-3-services-actions-parameters-86f": {
+    "__comp": "17896441",
+    "content": "f4b01ecb"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-4-urdf-robot-modeling-1db": {
+    "__comp": "17896441",
+    "content": "fbeb41c7"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-5-launch-files-packages-847": {
+    "__comp": "17896441",
+    "content": "2bc06b61"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-digital-twin/-956": {
+    "__comp": "17896441",
+    "content": "236a605b"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-isaac/-bd9": {
+    "__comp": "17896441",
+    "content": "ec70482a"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-4-vla-humanoids/-61e": {
+    "__comp": "17896441",
+    "content": "87a0b7f4"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/references/glossary-88e": {
+    "__comp": "17896441",
+    "content": "eae929fd"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/cloud-5c2": {
+    "__comp": "17896441",
+    "content": "53f9b40d"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/edge-kit-41d": {
+    "__comp": "17896441",
+    "content": "7346eec8"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/workstation-51c": {
+    "__comp": "17896441",
+    "content": "a0700d4c"
+  },
+  "/Physical-AI-Humanoid-Robotics-Textbook/-637": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

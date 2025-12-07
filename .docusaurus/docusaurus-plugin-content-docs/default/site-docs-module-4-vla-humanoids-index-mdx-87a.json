@@ -1,0 +1,51 @@
+{
+  "id": "module-4-vla-humanoids/index",
+  "title": "Module 4: VLA & Humanoid Robotics",
+  "description": "Integrate Vision-Language-Action models with humanoid robots for natural human-robot interaction and manipulation",
+  "source": "@site/docs/module-4-vla-humanoids/index.mdx",
+  "sourceDirName": "module-4-vla-humanoids",
+  "slug": "/module-4-vla-humanoids/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-4-vla-humanoids/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-4-vla-humanoids/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Module 4: VLA & Humanoid Robotics",
+    "description": "Integrate Vision-Language-Action models with humanoid robots for natural human-robot interaction and manipulation",
+    "keywords": [
+      "VLA",
+      "vision language action",
+      "humanoid robotics",
+      "kinematics",
+      "manipulation",
+      "conversational AI",
+      "embodied AI"
+    ],
+    "sidebar_position": 1,
+    "sidebar_label": "Module 4: VLA & Humanoids",
+    "estimated_time": 9,
+    "week": 11,
+    "module": 4,
+    "prerequisites": [
+      "module-3-isaac"
+    ],
+    "learning_objectives": [
+      "Calculate forward and inverse kinematics for humanoid robots with 30+ degrees of freedom",
+      "Implement manipulation primitives (reach, grasp, place) for pick-and-place tasks",
+      "Integrate conversational AI (speech-to-text, LLMs) with robot action planning",
+      "Deploy end-to-end VLA systems that translate voice commands into physical actions"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 3: Isaac Sim",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-isaac/"
+  },
+  "next": {
+    "title": "Robotics Glossary",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/references/glossary"
+  }
+}

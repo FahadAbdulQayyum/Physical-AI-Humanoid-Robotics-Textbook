@@ -1,0 +1,51 @@
+{
+  "id": "module-3-isaac/index",
+  "title": "Module 3: NVIDIA Isaac - Perception & Navigation",
+  "description": "Leverage NVIDIA Isaac Sim for GPU-accelerated robotics with VSLAM, Nav2 navigation, and reinforcement learning",
+  "source": "@site/docs/module-3-isaac/index.mdx",
+  "sourceDirName": "module-3-isaac",
+  "slug": "/module-3-isaac/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-isaac/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-3-isaac/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Module 3: NVIDIA Isaac - Perception & Navigation",
+    "description": "Leverage NVIDIA Isaac Sim for GPU-accelerated robotics with VSLAM, Nav2 navigation, and reinforcement learning",
+    "keywords": [
+      "NVIDIA Isaac",
+      "Isaac Sim",
+      "VSLAM",
+      "Nav2",
+      "reinforcement learning",
+      "GPU robotics",
+      "perception"
+    ],
+    "sidebar_position": 1,
+    "sidebar_label": "Module 3: Isaac Sim",
+    "estimated_time": 9,
+    "week": 8,
+    "module": 3,
+    "prerequisites": [
+      "module-2-digital-twin"
+    ],
+    "learning_objectives": [
+      "Set up and configure NVIDIA Isaac Sim environments with RTX-accelerated rendering",
+      "Implement Visual SLAM (VSLAM) for robot localization and mapping",
+      "Deploy Nav2 navigation stack for autonomous navigation with dynamic obstacles",
+      "Train reinforcement learning policies using Isaac Gym for manipulation tasks"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 2: Digital Twin",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-digital-twin/"
+  },
+  "next": {
+    "title": "Module 4: VLA & Humanoids",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-4-vla-humanoids/"
+  }
+}

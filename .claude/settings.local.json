@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.specify/scripts/powershell/create-phr.ps1:*)",
+      "Bash(.specify/scripts/powershell/setup-plan.ps1:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI & Humanoid Robotics",
+  "description": "Welcome to the comprehensive 13-week course for industry practitioners. Learn to build intelligent robotic systems that perceive, plan, and interact with the physical world.",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/intro.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Physical AI & Humanoid Robotics",
+    "description": "Welcome to the comprehensive 13-week course for industry practitioners. Learn to build intelligent robotic systems that perceive, plan, and interact with the physical world.",
+    "keywords": [
+      "physical AI",
+      "humanoid robotics",
+      "ROS 2",
+      "Isaac Sim",
+      "VLA",
+      "course introduction"
+    ],
+    "sidebar_position": 1,
+    "estimated_time": 15,
+    "learning_objectives": [
+      "Explain the concept of Physical AI and how it differs from traditional AI",
+      "Identify the four core components of Physical AI systems (perception, planning, action, learning)",
+      "Describe the course structure and progression through 4 modules over 13 weeks",
+      "Select the appropriate hardware setup path for your learning environment"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Setup Guide: Digital Twin Workstation",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/workstation"
+  }
+}

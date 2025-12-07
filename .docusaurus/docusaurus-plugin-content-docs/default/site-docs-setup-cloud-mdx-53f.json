@@ -1,0 +1,47 @@
+{
+  "id": "setup/cloud",
+  "title": "Setup Guide: Cloud-Native Development",
+  "description": "Configure cloud GPU instances on AWS or Azure for Physical AI development without local hardware",
+  "source": "@site/docs/setup/cloud.mdx",
+  "sourceDirName": "setup",
+  "slug": "/setup/cloud",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/cloud",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/setup/cloud.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Setup Guide: Cloud-Native Development",
+    "description": "Configure cloud GPU instances on AWS or Azure for Physical AI development without local hardware",
+    "keywords": [
+      "cloud computing",
+      "AWS",
+      "Azure",
+      "GPU instances",
+      "ROS 2 cloud",
+      "remote development"
+    ],
+    "sidebar_position": 3,
+    "estimated_time": 120,
+    "week": 1,
+    "module": 0,
+    "prerequisites": [],
+    "learning_objectives": [
+      "Launch GPU-enabled VM instances on AWS EC2 or Azure",
+      "Install ROS 2 and Isaac Sim on cloud infrastructure",
+      "Configure remote desktop access for GUI applications",
+      "Estimate cloud costs and optimize usage for the course"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Guide: Physical AI Edge Kit",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/edge-kit"
+  },
+  "next": {
+    "title": "Module 1: ROS 2",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/"
+  }
+}

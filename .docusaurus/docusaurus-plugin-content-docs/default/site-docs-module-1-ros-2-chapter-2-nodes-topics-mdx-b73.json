@@ -1,0 +1,55 @@
+{
+  "id": "module-1-ros2/chapter-2-nodes-topics",
+  "title": "Chapter 2: ROS 2 Nodes and Topics",
+  "description": "Master rclpy programming by building publishers, subscribers, and understanding Quality of Service for reliable robot communication",
+  "source": "@site/docs/module-1-ros2/chapter-2-nodes-topics.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/chapter-2-nodes-topics",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-2-nodes-topics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-1-ros2/chapter-2-nodes-topics.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Chapter 2: ROS 2 Nodes and Topics",
+    "description": "Master rclpy programming by building publishers, subscribers, and understanding Quality of Service for reliable robot communication",
+    "keywords": [
+      "rclpy",
+      "ROS 2 nodes",
+      "publishers",
+      "subscribers",
+      "topics",
+      "QoS",
+      "Quality of Service",
+      "callbacks"
+    ],
+    "sidebar_position": 2,
+    "learning_objectives": [
+      "Implement ROS 2 nodes using rclpy library and the Node class",
+      "Create publishers and subscribers to exchange messages between nodes",
+      "Apply Quality of Service (QoS) policies to configure reliable communication",
+      "Demonstrate debugging skills using ROS 2 introspection tools"
+    ],
+    "prerequisites": [
+      "Chapter 1: Introduction to ROS 2",
+      "Python 3.10+",
+      "Basic OOP concepts"
+    ],
+    "estimated_time": 90,
+    "content_type": "tutorial",
+    "difficulty": "beginner",
+    "ros2_distribution": "humble",
+    "chapter_number": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: Introduction to ROS 2",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-1-intro-ros2"
+  },
+  "next": {
+    "title": "Chapter 3: Services, Actions, and Parameters",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-3-services-actions-parameters"
+  }
+}

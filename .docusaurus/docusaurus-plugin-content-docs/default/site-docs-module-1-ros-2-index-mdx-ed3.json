@@ -1,0 +1,52 @@
+{
+  "id": "module-1-ros2/index",
+  "title": "Module 1: The Robotic Nervous System (ROS 2)",
+  "description": "Master ROS 2 architecture, communication patterns, and robot modeling to build distributed robotic systems",
+  "source": "@site/docs/module-1-ros2/index.mdx",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-1-ros2/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "description": "Master ROS 2 architecture, communication patterns, and robot modeling to build distributed robotic systems",
+    "keywords": [
+      "ROS 2",
+      "robotics middleware",
+      "nodes",
+      "topics",
+      "services",
+      "URDF",
+      "rclpy"
+    ],
+    "sidebar_position": 0,
+    "sidebar_label": "Module 1: ROS 2",
+    "estimated_time": 10,
+    "week": 3,
+    "module": 1,
+    "prerequisites": [
+      "intro"
+    ],
+    "learning_objectives": [
+      "Explain the ROS 2 computation graph and its components (nodes, topics, services, actions)",
+      "Create publishers, subscribers, and service clients using rclpy",
+      "Define robot structure using URDF and visualize in RViz2",
+      "Launch multi-node systems and debug distributed applications",
+      "Build a complete ROS 2 package with proper package structure"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Guide: Cloud-Native Development",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/cloud"
+  },
+  "next": {
+    "title": "Chapter 1: Introduction to ROS 2",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-1-intro-ros2"
+  }
+}

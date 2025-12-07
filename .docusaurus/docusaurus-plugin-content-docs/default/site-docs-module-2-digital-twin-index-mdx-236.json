@@ -1,0 +1,51 @@
+{
+  "id": "module-2-digital-twin/index",
+  "title": "Module 2: Digital Twins - Simulation & Sensors",
+  "description": "Build digital twins for robotic systems using Gazebo and Unity to simulate sensors, physics, and environments",
+  "source": "@site/docs/module-2-digital-twin/index.mdx",
+  "sourceDirName": "module-2-digital-twin",
+  "slug": "/module-2-digital-twin/",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-digital-twin/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/module-2-digital-twin/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Module 2: Digital Twins - Simulation & Sensors",
+    "description": "Build digital twins for robotic systems using Gazebo and Unity to simulate sensors, physics, and environments",
+    "keywords": [
+      "Gazebo",
+      "Unity",
+      "digital twin",
+      "simulation",
+      "sensors",
+      "physics",
+      "robotics simulation"
+    ],
+    "sidebar_position": 1,
+    "sidebar_label": "Module 2: Digital Twin",
+    "estimated_time": 6,
+    "week": 6,
+    "module": 2,
+    "prerequisites": [
+      "module-1-ros2"
+    ],
+    "learning_objectives": [
+      "Create Gazebo simulation environments with physics engines and sensor models",
+      "Integrate Unity for photorealistic sensor simulation using Unity Robotics Hub",
+      "Test navigation and perception algorithms in simulation before hardware deployment",
+      "Bridge simulated and real robot workflows for seamless sim-to-real transfer"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 5: Launch Files and Package Management",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-5-launch-files-packages"
+  },
+  "next": {
+    "title": "Module 3: Isaac Sim",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-isaac/"
+  }
+}

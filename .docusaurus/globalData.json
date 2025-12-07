@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-1-intro-ros2",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-1-intro-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-2-nodes-topics",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-2-nodes-topics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-3-services-actions-parameters",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-3-services-actions-parameters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-4-urdf-robot-modeling",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-4-urdf-robot-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/chapter-5-launch-files-packages",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/chapter-5-launch-files-packages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-ros2/index",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-1-ros2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-digital-twin/index",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-2-digital-twin/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-isaac/index",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-3-isaac/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-vla-humanoids/index",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-4-vla-humanoids/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "references/glossary",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/references/glossary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/cloud",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/edge-kit",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/edge-kit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "setup/workstation",
+              "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/setup/workstation",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Physical-AI-Humanoid-Robotics-Textbook/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "references/glossary",
+  "title": "Robotics Glossary",
+  "description": "Comprehensive glossary of robotics, ROS 2, simulation, and AI terminology used throughout the course",
+  "source": "@site/docs/references/glossary.md",
+  "sourceDirName": "references",
+  "slug": "/references/glossary",
+  "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/references/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/FahadAbdulQayyum/Physical-AI-Humanoid-Robotics-Textbook/tree/main/docs/references/glossary.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Robotics Glossary",
+    "description": "Comprehensive glossary of robotics, ROS 2, simulation, and AI terminology used throughout the course",
+    "keywords": [
+      "glossary",
+      "robotics terms",
+      "ROS 2",
+      "Isaac Sim",
+      "VLA",
+      "definitions"
+    ],
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 4: VLA & Humanoids",
+    "permalink": "/Physical-AI-Humanoid-Robotics-Textbook/docs/module-4-vla-humanoids/"
+  }
+}
