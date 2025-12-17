@@ -25,6 +25,7 @@
     "@docusaurus/preset-classic": "^3.5.2",
     "@docusaurus/theme-search-algolia": "^3.5.2",
     "@mdx-js/react": "^3.0.1",
+    "axios": "^1.13.2",
     "clsx": "^2.1.1",
     "flexsearch": "^0.7.43",
     "prism-react-renderer": "^2.4.0",
